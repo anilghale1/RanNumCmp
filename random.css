@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    
+    text-align: center;
+   
+}
+
+.p1{
+    float: left;
+    
+    position: relative;
+    left: 640px;
+    top : 150px;
+     }
+    
+     .p1 button{
+        height: 35px;
+        background-color: red;
+        font-weight: bold;
+        color: white;
+     }
+
+     
+
+.p2{
+    
+    position: relative;
+    left: 402px;
+    top : 200px;
+     
+    
+}
+
+.p1 input{
+    height: 30px;
+   
+    
+}
+
+.p2 input{
+    height: 30px;
+   
+    
+}
+
+.p2 button{
+    height: 35px;
+    background-color: red;
+    font-weight: bold;
+    color: white;
+ }
+
+p{
+    color: white;
+    position: relative;
+    text-align: center;
+    
+    top: 300px;
+    font-size: 30px;
+    font-weight: bold;
+}
